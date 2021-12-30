@@ -1,1 +1,5 @@
 segon capitol del llibre sense final.
+Ara intentem que sigui un libre de Aliens,
+Per això, utilitzem un "git branch".
+Creem una nova branca secundaria.
+
